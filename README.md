@@ -1,2 +1,2 @@
 # MAE162E
-Capstone
+Capstone.
